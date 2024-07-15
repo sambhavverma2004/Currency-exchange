@@ -48,7 +48,7 @@ form input{
     align-items: center;
     margin: 1rem;
     padding:1rem;
-    border: 1px solid #4a7c59;
+/*     border: 1px solid #4a7c59; */
     border-radius: .5rem;
     
     /* padding:2rem; */
@@ -89,4 +89,10 @@ form input{
     font-size: 1rem;
     cursor:pointer;
 
+}
+.from{
+    border: 1px solid #4a7c59;
+}
+.To{
+    border: 1px solid #4a7c59;
 }
