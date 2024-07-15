@@ -46,7 +46,8 @@ form input{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 2rem;
+    margin: 1rem;
+    padding:1rem;
     border: 1px solid #4a7c59;
     border-radius: .5rem;
     
